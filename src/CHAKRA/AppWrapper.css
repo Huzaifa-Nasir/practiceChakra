@@ -1,0 +1,8 @@
+.app-wrapper {
+    background-color: #f0f0f0;
+    /* Add padding to create space between content and container */
+    overflow: auto; /* Add scrollbar when content overflows */
+    max-width: 100%; /* Ensure container doesn't exceed viewport width */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+  }
+  
